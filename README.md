@@ -483,4 +483,4 @@ Capture clear screenshots with annotations to explain each step.
 
 
 ## 📄 License
-All Rights Reserved © 2025 **Adam**.
+All Rights Reserved © 2025 **Steve**.
